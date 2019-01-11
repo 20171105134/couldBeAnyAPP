@@ -1,10 +1,4 @@
-//
-//  playerTests.swift
-//  playerTests
-//
-//  Created by 王京 on 2019/1/11.
-//  Copyright © 2019 hcf. All rights reserved.
-//
+
 
 import XCTest
 @testable import player
